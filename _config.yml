@@ -1,0 +1,10 @@
+title: Mi Sitio Web
+email: correo@ejemplo.com
+description: >-
+  Este es mi sitio web personal hecho con Jekyll.
+baseurl: ""
+url: "https://usuario.github.io"
+
+collections:
+  proyectos:
+    output: true
